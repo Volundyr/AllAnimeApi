@@ -1,0 +1,927 @@
+{
+	"animes": [
+    {
+      "id": 1,
+      "title": "One Piece",
+      "titles" : {
+        "jp" : "One Piece",
+        "sy" : "ワンピース",
+        "eng" : "One Piece",
+        "fr" : "One Piece"
+      },
+      "synopsis": "Gol D. Roger était connu comme le « Roi des pirates », le plus puissant et le plus tristement célèbre des pirates à avoir navigué sur Grand Line. La capture et la mort de Roger par le Gouvernement mondial ont bouleversé le monde entier. Ses dernières paroles avant sa mort ont révélé l'existence du plus grand trésor au monde, One Piece. C'est cette révélation qui a donné naissance à la Grande Ère des Pirates, des hommes qui rêvaient de trouver One Piece, promettant des richesses et une renommée illimitées, et peut-être même le summum de la gloire et le titre de Roi des Pirates.\n\n Entrez Monkey D. Luffy, un garçon de 17 ans qui défie votre définition standard d'un pirate. Plutôt que le personnage populaire d'un pirate méchant, endurci et édenté qui pille les villages pour s'amuser, la raison pour laquelle Luffy est devenu pirate est purement merveilleuse : l'idée d'une aventure passionnante qui le mène vers des personnes intrigantes et, finalement, vers le trésor promis. Suivant les traces de son héros d'enfance, Luffy et son équipage voyagent à travers Grand Line, vivant des aventures folles, dévoilant de sombres mystères et combattant de puissants ennemis, tout cela dans le but d'atteindre la plus convoitée de toutes les fortunes : One Piece.",
+      "genres": ["Aventure", "Fantasy", "Aventure"],
+      "episodes": 1138,
+      "seasons": 22,
+      "status": "En cours",
+      "aired": "20 Octobre 1999 - ?",
+      "source": "Manga",
+      "studio" : "Toei Animation",
+      "rating" : "PG - Teens 13 or older",
+      "length" : 24,
+      "score" : 4.8,
+      "manga_id" : 1,
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/anime.webp",
+      "trailer" : "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/trailer.mp4",
+      "spoil": "Luffy développe le Gear 5 et découvre la véritable nature de son fruit du démon, le Nika Nika no Mi, qui lui confère les pouvoirs du dieu soleil aussi appeler Nika.",
+      "equipages": [
+        {
+          "id": 1,
+          "name": "Équipage du Chapeau de Paille",
+          "name_alternatif": ["Straw Hat Pirates", "Mugiwara no Ichimi", "L'Équipage de Luffy"],
+          "description": "L’Équipage du Chapeau de Paille est originaire d’East Blue, bien qu’il rassemble des membres provenant de différentes régions du monde. Ils sont les protagonistes principaux de One Piece, dirigés par Monkey D. Luffy, le capitaine de l’équipage.\n\nAu départ, ils voguaient à bord du Vogue Merry, un navire offert par Kaya au Village Sirop. Ce dernier les accompagna jusqu’à Water Seven, où il fut remplacé par le Thousand Sunny, construit par Franky avec du bois d’arbre-jewel.\n\nL’équipage compte actuellement dix membres, et la somme totale de leurs primes s’élève à 8 816 001 000 berrys.",
+          "status": "Actif",
+          "niveau": "Équipage d'un Empereur (Yonkō)",
+          "length": "Environ 3 ans ",
+          "image" : "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/equipages/strawhat/logo.png",
+          "flag": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/equipages/strawhat/flag.jpg",
+          "membres": [
+            { "id": 1 },  
+            { "id": 2 },  
+            { "id": 3 },  
+            { "id": 4 },  
+            { "id": 5 },  
+            { "id": 6 },  
+            { "id": 7 },  
+            { "id": 8 },  
+            { "id": 9 },  
+            { "id": 10 }  
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Équipage du Roux",
+          "name_alternatif": ["Red Hair Pirates", "Akagami no Ichimi", "L'Équipage de Shanks"],
+          "description": "L'équipage du Roux est l'un des équipages les plus redoutés du Nouveau Monde, dirigé par Shanks le Roux, l'un des Quatre Empereurs. Connu pour sa puissance, sa discipline et son équilibre, cet équipage se distingue par son professionnalisme et sa capacité à maintenir l'ordre malgré sa puissance démesurée. Shanks et ses hommes sont respectés autant pour leur force que pour leur code d'honneur. Ils sont souvent impliqués dans des événements majeurs influençant l'équilibre du monde.",
+          "status": "Actif",
+          "niveau": "Équipage d'un Empereur (Yonkō)",
+          "length": "Plus de 12 ans",
+          "image" : "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/equipages/shanks/logo.png",
+          "flag": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/equipages/shanks/flag.jpg",
+          "membres": [
+            { "id": 28 },
+            { "id": 29 },
+            { "id": 30 },
+            { "id": 31 },
+            { "id": 32 },
+            { "id": 33 }
+          ]
+        }
+      ],
+      
+      "ships":[],
+      "cards":[],
+      "devilFruit":[]
+    },
+    {
+      "id": 2,
+      "title": "Kuroko no Basket",
+      "titles" : {
+        "jp" : "Kuroko no Basket",
+        "sy" : "黒子のバスケ",
+        "eng" : "Kuroko's Basketball",
+        "fr" : "Kuroko's Basketball"
+      },
+      "synopsis": "L'équipe de basket-ball du collège Teikou est sacrée championne trois années de suite grâce à cinq joueurs exceptionnels qui, grâce à leurs compétences époustouflantes et uniques, laissent leurs adversaires dans le désespoir et les fans dans l'admiration. Cependant, après avoir obtenu leur diplôme, ces coéquipiers, connus sous le nom de « Génération des miracles », prennent des chemins différents et se considèrent désormais comme des rivaux.\n\nAu lycée Seirin, deux nouvelles recrues prouvent qu'elles ne sont pas des basketteuses ordinaires. Taiga Kagami, un joueur prometteur qui revient des États-Unis, et Tetsuya Kuroko, un élève apparemment ordinaire dont le manque de prestance lui permet de passer inaperçu. Bien que Kuroko ne soit ni athlétique ni capable de marquer des points, il était membre de l'équipe de basket-ball de Teikou, où il jouait le rôle du « sixième homme fantôme », qui passait facilement la balle et aidait ses coéquipiers.Kuroko no Basket suit le parcours des joueurs de Seirin, qui tentent de devenir la meilleure équipe de lycée japonaise en remportant le championnat Interhigh. Pour atteindre leur objectif, ils doivent croiser le chemin de plusieurs équipes puissantes, dont certaines possèdent l'un des cinq joueurs aux capacités divines, que Kuroko et Taiga font le pacte de vaincre.",
+      "genres": ["Sports"],
+      "episodes": 75,
+      "seasons": 3,
+      "status": "Terminé",
+      "aired": "8 april 2012 - 29 mars 2014",
+      "source": "Manga",
+      "studio" : "Production I.G",
+      "rating" : "PG - Teens 13 or older",
+      "length" : 24,
+      "score" : 8.05,
+      "manga_id" : 2,
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/anime.webp",
+      "trailer" : "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/trailer.mp4",
+      "spoil": "Kuroko et Kagami affrontent les membres des 'Générations Miracles' pour remporter le championnat national, culminant avec une victoire décisive contre Akashi Seijuro."
+    }
+    
+  ],
+  "mangas":
+  [
+    {
+      "id" : 1,
+      "title" : "One Piece",
+      "titles" : {
+        "jp" : "One Piece",
+        "sy" : "ワンピース",
+        "eng" : "One Piece",
+        "fr" : "One Piece"
+      },
+      "synopsis" : "Gol D. Roger était connu comme le roi des pirates, l'être le plus fort et le plus infâme à avoir navigué sur la Grand Line. La capture et la mort de Roger par le gouvernement mondial ont entraîné un changement dans le monde entier. Les derniers mots qu'il prononça avant de mourir révélèrent l'emplacement du plus grand trésor du monde, One Piece. C'est cette révélation qui a donné naissance au Grand Âge des Pirates, des hommes qui rêvaient de trouver One Piece (qui promet une quantité illimitée de richesses et de célébrité), et sans doute le titre le plus convoité pour celui qui le trouverait, le titre de Roi des Pirates.\n\nC'est là qu'entre en scène Monkey D. Luffy, un jeune homme de 17 ans qui va à l'encontre de la définition habituelle du pirate. Plutôt que l'image populaire d'un pirate méchant, endurci et édenté qui pille les villages pour s'amuser, la raison pour laquelle Luffy est un pirate est un pur émerveillement ; l'idée d'une aventure passionnante et de rencontrer des gens nouveaux et intrigants, ainsi que de trouver One Piece, sont les raisons pour lesquelles il est devenu un pirate. Sur les traces du héros de son enfance, Luffy et son équipage parcourent Grand Line, vivent de folles aventures, lèvent le voile sur de sombres mystères et affrontent des ennemis redoutables, tout cela dans le but d'atteindre One Piece.",
+      "genres" : ["Aventure", "Fantasy", "Aventure"],
+      "authors_id" : 1,
+      "status": "En cours",
+      "aired": "22 Juillet 1997 - ?",
+      "tomes" : 109,
+      "chapter" : 1147,
+      "type" : "Shounen",
+      "serialization" : "Shounen Jump",
+      "image_url" : "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/manga.webp",
+      "spoil" : "Vegapunk révèle que Joy Boy était le premier pirate et que la guerre oubliée menace de recommencer.",
+      "equipages": [
+        {
+          "id": 1,
+          "name": "Équipage au Chapeau de Paille",
+          "name_alternatif": ["Straw Hat Pirates", "Mugiwara no Ichimi", "L'Équipage de Luffy"],
+          "description": "L'équipage au Chapeau de Paille est un groupe de pirates fondé par Monkey D. Luffy. Leur objectif commun est de réaliser les rêves individuels de chaque membre, tout en aidant Luffy à devenir le Roi des Pirates. Célèbre pour avoir défié les autorités mondiales et affronté de puissants adversaires, cet équipage se distingue par ses liens forts d'amitié et de loyauté. À la suite de l'arc Wano, Luffy est reconnu comme l'un des Quatre Empereurs, faisant de son équipage l'un des plus puissants du Nouveau Monde.",
+          "status": "Actif",
+          "niveau": "Équipage d'un Empereur (Yonkō)",
+          "length": "Environ 3 ans ",
+          "image" : "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/equipages/strawhat/logo.png",
+          "flag": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/equipages/strawhat/flag.jpg",
+          "membres": [
+            { "id": 1 },  
+            { "id": 2 },  
+            { "id": 3 },  
+            { "id": 4 },  
+            { "id": 5 },  
+            { "id": 6 },  
+            { "id": 7 },  
+            { "id": 8 },  
+            { "id": 9 },  
+            { "id": 10 }  
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Équipage du Roux",
+          "name_alternatif": ["Red Hair Pirates", "Akagami no Ichimi", "L'Équipage de Shanks"],
+          "description": "L'équipage du Roux est l'un des équipages les plus redoutés du Nouveau Monde, dirigé par Shanks le Roux, l'un des Quatre Empereurs. Connu pour sa puissance, sa discipline et son équilibre, cet équipage se distingue par son professionnalisme et sa capacité à maintenir l'ordre malgré sa puissance démesurée. Shanks et ses hommes sont respectés autant pour leur force que pour leur code d'honneur. Ils sont souvent impliqués dans des événements majeurs influençant l'équilibre du monde.",
+          "status": "Actif",
+          "niveau": "Équipage d'un Empereur (Yonkō)",
+          "length": "Plus de 12 ans",
+          "image" : "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/equipages/shanks/logo.png",
+          "flag": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/equipages/shanks/flag.jpg",
+          "membres": [
+            { "id": 28 },
+            { "id": 29 },
+            { "id": 30 },
+            { "id": 31 },
+            { "id": 32 },
+            { "id": 33 }
+          ]
+        }
+      ]
+    },    
+    {
+      "id" : 2,
+      "title": "Kuroko no Basket",
+      "titles" : {
+        "jp" : "Kuroko no Basket",
+        "sy" : "黒子のバスケ",
+        "eng" : "Kuroko's Basketball",
+        "fr" : "Kuroko's Basketball"
+      },
+      "synopsis" : "Le club de basket-ball du collège Teikou : une équipe incroyablement forte, comptant plus de cent membres et ayant remporté trois championnats consécutifs. Parmi leurs brillants résultats, il y avait une génération de cinq prodiges connue sous le nom de « Génération des miracles ». Cependant, une étrange rumeur concernant la Génération des Miracles circulait au sujet d'un autre joueur reconnu par les cinq prodiges... un Sixième Joueur Fantôme.\n\nLorsque Kagami Taiga rejoint l'équipe de basket-ball du lycée Seirin, il rencontre Kuroko Tetsuya, un joueur terriblement mauvais. Kagami est choqué d'apprendre que Kuroko est le sixième homme de la Génération des Miracles. Non seulement Kuroko est mauvais dans tous les domaines, du dribble au tir, mais il manque tellement de présence sur le terrain que, parfois, les gens oublient même qu'il joue. Mais pendant les matchs, Kuroko utilise ce manque de présence à son avantage, en se spécialisant dans la transmission de la balle à des joueurs plus forts. Afin de devenir le meilleur joueur du Japon, Kagami accepte de faire équipe avec Kuroko pour vaincre les autres membres de la Génération des Miracles.",
+      "genres" : ["Sports", "Comédie"],
+      "authors_id" : 2,
+      "status": "Terminé",
+      "aired": "8 Décembre 2008 - 1 Septembre 2014",
+      "tomes" : 30,
+      "chapter" : 276,
+      "type" : "Shounen",
+      "serialization" : "Shounen Jump",
+      "image_url" : "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/manga.webp",
+      "spoil" : "Seirin remporte la Winter Cup contre Rakuzan, et plus tard, l'équipe Vorpal Swords bat les Jabberwock, défendant l'honneur du basket japonais."
+    }
+  ],
+  "characters": 
+  [
+	{
+      "id": 1,
+	    "anime_id" : 1,
+      "manga_id" : 1,
+      "name": "Monkey D. Luffy",
+      "name_alternatif": [
+        {"name": "Chapeau de paille"},
+        {"name": "Marchant de paille"},
+        {"name": "Mugiwara no Luffy"}
+      ],
+      "description": "Monkey D. Luffy est un capitaine insouciant et déterminé qui arbore un sourire contagieux et une énergie débordante. Bien qu’il soit souvent vu comme naïf ou irréfléchi, derrière son apparente légèreté se cache une force de volonté inébranlable et un courage hors du commun. Son rêve de devenir le Roi des Pirates est ce qui le pousse à toujours aller de l’avant, quel que soit l’obstacle. Il est guidé par un profond sens de la liberté et un désir de protéger ceux qu’il aime, prêt à tout sacrifier pour ses rêves et ses amis.\n\nLuffy est un personnage dont l’authenticité et la simplicité cachent une grande profondeur. Son engagement envers ses camarades d’équipage est absolu, et il ne tolère aucune forme d’injustice. Son comportement impulsif et son manque de tact peuvent parfois le mettre en difficulté, mais son cœur pur et son instinct infaillible lui permettent de surmonter les pires épreuves. Il incarne la véritable essence du leadership : il inspire ceux qui l’entourent à poursuivre leurs rêves tout en restant fidèle à ses principes. Luffy est à la fois un aventurier impétueux et un capitaine au grand cœur, toujours prêt à se lancer dans l’inconnu pour voir ses rêves se réaliser.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/characters/luffy.jpg",
+      "doubleur": "Mayumi Tanaka",
+      "doubleur_vf": "Stéphane Excoffier",
+	    "birth_date": "5 mai", 
+      "age": 19,
+      "height": "172 cm",
+      "status" : "Alive",
+      "abilities": "Luffy est un combattant hors pair grâce à son pouvoir du Gomu Gomu no Mi, un Fruit du Démon de type Paramecia qui lui permet de transformer son corps en caoutchouc. \r\n Il maîtrise à la perfection l'art du combat à mains nues, utilisant son pouvoir pour étirer ses bras, ses jambes et son torse à des distances incroyables, augmentant ainsi la portée et la puissance de ses attaques. Luffy développe au fil du temps plusieurs techniques, comme le ''Gomu Gomu no Pistol'' et le ''Gomu Gomu no Gatling'', pour affronter des ennemis de plus en plus puissants. \r\n En plus de ses capacités physiques, Luffy a amélioré son pouvoir avec la technique du Gear Second, qui augmente sa vitesse et sa force en faisant circuler son sang à une vitesse accrue, et le Gear Third, qui permet de gonfler son corps pour effectuer des attaques massives. \r\n Luffy utilise également le Haki, maîtrisant particulièrement le Haki de l'Armement (Busoshoku Haki) pour rendre ses attaques plus puissantes et capables d’affecter des adversaires aux capacités exceptionnelles. Il possède également un Haki des Rois (Haoshoku Haki), lui permettant d'imposer sa volonté sur ses ennemis et d’intimider ou de les paralyser temporairement. \r\n Sa détermination sans faille et son esprit de leadership font de Luffy un combattant redoutable, capable de repousser ses limites pour protéger ses amis et accomplir son rêve.",
+      "spoil": "Luffy a éveillé son fruit du démon, révélant sa véritable nature : le Hito Hito no Mi, modèle Nika."
+    },
+    {
+      "id": 2,
+	    "anime_id" : 1,
+      "manga_id" : 1,
+      "name": "Roronoa Zoro",
+      "name_alternatif": [
+        {"name": "Le Chasseur de Pirates"},
+        {"name": "Le Démon de l'East Blue"}
+      ],
+      "description": "Roronoa Zoro est un bretteur taciturne et déterminé, animé par un sens de l’honneur inébranlable et une ambition dévorante. Son objectif de devenir le meilleur épéiste du monde est ce qui le pousse à s’entraîner sans relâche. D’un tempérament calme et réfléchi, il affiche souvent une froideur apparente, mais sous cette carapace se cache un homme profondément loyal et protecteur envers ses amis. Zoro est un guerrier implacable, prêt à tout pour atteindre ses objectifs, même s’il doit sacrifier sa propre vie.\n\nSa fidélité à Luffy et à l’équipage est sans faille. Bien qu’il soit parfois enclin à se perdre dans ses rêves de gloire personnelle, il comprend profondément l’importance de l’amitié et de la loyauté. Zoro est un personnage de principe, un combattant redoutable et un homme de parole, qui n’hésite jamais à faire face aux défis, quel qu’ils soient.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/characters/zoro.jpg",
+      "doubleur": "Kazuya Nakai",
+      "doubleur_vf": "Bruno Méyère",
+      "birth_date": "11 novembre",
+      "age": 21,
+      "height": "181 cm",
+      "status" : "Alive",
+      "abilities": "Zoro est un maître bretteur, expert dans l'art du combat à trois sabres, une technique unique qu'il a perfectionnée au fil des années. Il utilise trois sabres simultanément : un dans chaque main et un autre dans sa bouche, créant ainsi des attaques dévastatrices et très difficiles à esquiver. \r\n En plus de son incroyable habileté à manier ses sabres avec une rapidité et une précision inégalées, Zoro a développé des techniques de combat qui combinent puissance brute et stratégie, comme son ''Santoryu Ogi - Ichidai Sanzen Daisen Sekai'' ou le ''Asura'', une technique qui lui permet de créer une illusion de plusieurs têtes et bras pour attaquer plusieurs ennemis à la fois. \r\n Zoro a également une maîtrise du Haki de l'Armement (Busoshoku Haki), qu'il utilise pour rendre ses attaques plus puissantes et tranchantes, capables de percer même les défenses les plus solides. Il peut concentrer ce Haki sur ses sabres ou sur son corps pour améliorer ses capacités au combat. \r\n Sa détermination sans faille et sa capacité à rester calme même dans les situations les plus dangereuses font de lui un combattant redoutable. Son objectif ultime est de devenir le meilleur bretteur du monde, ce qui le pousse à sans cesse repousser ses limites et à chercher de nouveaux défis pour tester ses capacités.",
+      "spoil": "Zoro maîtrise l'Enma et repousse ses limites contre Kaido."
+    },{
+      "id": 3,
+      "anime_id": 1,
+      "manga_id" : 1,
+      "name": "Nami",
+      "name_alternatif": [
+        { "name": "La Voleuse du Ciel" },
+        { "name": "La Navigatrice" },
+        { "name": "La Sorcière du Climat" },
+        { "name": "Chat Noir" }
+      ],
+      "description": "Nami est une navigatrice brillante et astucieuse, qui cache sous une apparence de femme indépendante un cœur tendre et protecteur. Elle est une experte en cartographie et navigation, mais derrière ses compétences se cache aussi une femme marquée par un passé difficile. Elle a appris à se méfier des autres, mais au fil de son voyage avec Luffy et les autres membres de l’équipage, elle a appris à leur accorder sa confiance.\n\nSa débrouillardise et son esprit pragmatique sont essentiels à l’équipage, et elle est indispensable pour leur navigation à travers les mers tumultueuses. Bien qu’elle soit parfois perçue comme cupide ou égoïste, Nami est avant tout une amie loyale, prête à tout pour protéger ceux qu’elle aime. Elle est aussi une personne profondément émotive, mais elle préfère cacher ses sentiments derrière un masque d’ironie ou de sarcasme." ,
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/characters/nami.jpg",
+      "doubleur": "Akemi Okamura",
+      "doubleur_vf": "Stéphanie Lafforgue",
+      "birth_date": "3 juillet",
+      "age": 20,
+      "height": "170 cm",
+      "status" : "Alive",
+      "abilities": "Nami est une navigatrice exceptionnelle et une combattante stratégique redoutable. Elle maîtrise à la perfection l’art de la manipulation du climat grâce à son *Climatact*, un bâton spécial qu’elle a conçu et perfectionné au fil de ses aventures. \r\n Grâce à ce bâton, Nami peut créer des phénomènes météorologiques sur mesure, comme des rafales de vent, des éclairs et des pluies torrentielles, qu'elle utilise pour attaquer ses ennemis ou les distraire. Elle peut également utiliser son Climatact pour générer des tempêtes et contrôler les éléments à grande échelle, créant des conditions de combat extrêmement difficiles pour ses adversaires. \r\n En plus de son expertise en météorologie et en navigation, Nami est une experte en stratégie et en tactiques de combat. Elle sait exploiter les faiblesses de ses ennemis et utilise ses capacités de manière très calculée, en combinant son intelligence et son pouvoir climatique pour désorienter et vaincre des adversaires plus puissants. \r\n Bien qu’elle ne soit pas une combattante physique comme certains autres membres de l’équipage, Nami est indispensable grâce à ses talents uniques. Elle n’a pas de maîtrise du Haki, mais son génie en matière de tactique et son rôle essentiel dans la navigation font d’elle un pilier de l’équipage.",
+      "spoil": "Nami obtient Zeus et améliore son Climat-Tact."
+    },
+    {
+      "id": 4,
+      "anime_id": 1,
+      "manga_id" : 1,
+      "name": "Usopp",
+      "name_alternatif": [
+        { "name": "Sniper King" },
+        { "name": "Fils du mensonge" },
+        { "name": "Usopp, le Courageux" }
+      ],
+      "description": "Usopp est un tireur d'élite brillant mais parfois anxieux, qui rêve de devenir un grand héros comme son père, Yasopp, membre des Pirates de Shanks. Bien qu’il soit souvent perçu comme lâche ou faible, Usopp possède une grande créativité et une incroyable capacité à inventer des gadgets qui sont essentiels pour l’équipage. Son rêve de devenir un grand guerrier des mers est ce qui le pousse à se dépasser chaque jour.\n\nMalgré ses doutes personnels, Usopp est un ami fidèle et un membre indispensable de l’équipage, prêt à tout pour protéger ses camarades. Son esprit inventif et son courage caché, qui émerge surtout quand il est confronté à un défi impossible, font de lui un personnage complexe, capable de moments de grande bravoure, même s’il préfère parfois rester en arrière pour éviter les combats. Usopp est un mélange d’humilité, d’ingéniosité et de grande loyauté envers son équipage.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/characters/usopp.jpg",
+      "doubleur": "Kappei Yamaguchi",
+      "doubleur_vf": "Naïke Fauveau",
+      "birth_date": "1er avril",
+      "age": 19,
+      "height": "176 cm",
+      "status" : "Alive",
+      "abilities": "Usopp est un tireur d'élite hors pair. Il maîtrise à la perfection l'art du tir à distance, utilisant son fusil et ses inventions comme de véritables instruments de combat. \r\n Il est aussi un expert en stratégie et en pièges, capable de créer des armes uniques, comme ses projectiles spéciaux, qui lui permettent de faire face à des ennemis bien plus forts que lui. \r\n En plus de ses compétences en tir, Usopp a développé une grande maîtrise de la mécanique et de l'ingénierie, créant des dispositifs de guerre et des engins de siège pour l'équipage. \r\n Bien qu'il ne maîtrise pas le Haki comme certains membres de l'équipage, son courage et sa détermination grandissent au fur et à mesure de ses aventures, faisant de lui un atout précieux dans les moments de crise.",
+      "spoil": "Usopp est SniperKing."
+    },{
+      "id": 5,
+      "anime_id": 1,
+      "manga_id" : 1,
+      "name": "Vinsmoke Sanji",
+      "name_alternatif": [
+        { "name": "Jambe Noire" },
+        { "name": "Le Cuistot de l’Équipage" },
+        { "name": "Prince" },
+        { "name": "Le Perceur de Cœur" }
+      ],
+      "description": "Vinsmoke Sanji est un cuisinier charismatique et flamboyant qui cache sous ses airs de séducteur un cœur noble et une grande détermination. Il est un homme de principes, respectueux envers les femmes et prêt à tout sacrifier pour protéger ceux qu’il aime. Son rêve de trouver le All Blue, un endroit où tous les océans se rencontrent, est ce qui le pousse à voyager avec Luffy et les autres membres de l’équipage.\n\nBien qu’il puisse être impulsif et colérique, Sanji est aussi incroyablement attentionné, en particulier envers ses amis et sa famille. Son sens du sacrifice et son dévouement envers son équipage sont inébranlables. En tant que cuisinier, il est un maître dans son domaine, mais ses talents ne se limitent pas à la cuisine : il est également un combattant redoutable, capable de se défendre dans toutes les situations.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/characters/sanji.jpg",
+      "doubleur": "Hiroaki Hirata",
+      "doubleur_vf": "Emmanuel Rausenberger",
+      "birth_date": "2 mars",
+      "age": 21,
+      "height": "180 cm",
+      "status" : "Alive",
+      "abilities": "Sanji est un maître du combat au corps-à-corps, utilisant son style de combat unique, le *Black Leg* (Jambe Noire), qui repose sur des attaques puissantes et acrobatiques avec ses jambes. \r\n Il maîtrise une série de techniques impressionnantes comme le ''Diable Jambe'', une attaque qui lui permet de combiner puissance et chaleur en enflammant sa jambe pour des frappes dévastatrices, ou encore le ''Concassé'', qui écrase ses ennemis avec une force incroyable. Grâce à son entraînement rigoureux, Sanji est également capable de réaliser des acrobaties aériennes, ce qui rend ses attaques difficiles à anticiper et à esquiver. \r\n En plus de son expertise en combat, Sanji a développé une grande maîtrise du Haki de l'Armement (Busoshoku Haki), qu'il utilise pour renforcer ses jambes et ses coups, leur permettant de percer la défense de ses adversaires les plus résistants. \r\n Bien qu'il soit un combattant principalement axé sur la puissance physique, Sanji reste aussi un stratège brillant sur le terrain de combat, capable d'analyser ses ennemis et de s'adapter rapidement à toutes les situations. Son tempérament fougueux et son code d'honneur, qui le pousse à protéger les plus faibles et à respecter la vie humaine, font de lui un membre inébranlable de l'équipage de Chapeau de Paille.",
+      "spoil": "Sanji découvre sa vraie lignée et débloque des pouvoirs liés à sa famille."
+    },
+    {
+      "id": 6,
+      "anime_id": 1,
+      "manga_id" : 1,
+      "name": "Tony Tony Chopper",
+      "name_alternatif": [
+        { "name": "Tony-kun" },
+        { "name": "Le Docteur des Rires" },
+        { "name": "Le Renne Monstrueux" },
+        { "name": "Chopper le Docteur" }
+      ],
+      "description": "Tony Tony Chopper est un médecin au cœur immense et à la personnalité douce, avec un sens profond de l’empathie et un désir sincère d’aider les autres. Anciennement un renne rejeté, Chopper a trouvé sa place auprès de Luffy et de l’équipage, où il est devenu non seulement un guérisseur précieux, mais aussi un membre cher à tous. Son rêve de devenir le meilleur médecin au monde et de guérir toutes les maladies le pousse à donner le meilleur de lui-même.\n\nMalgré son apparence de petit animal innocent, Chopper est un personnage courageux et déterminé, prêt à se battre pour protéger ses amis. Il est également extrêmement intelligent et possède une grande connaissance de la médecine, ce qui lui permet d’être un atout indispensable pour l’équipage. Sa nature gentille et compatissante contraste parfois avec sa capacité à faire face à des situations difficiles avec une grande sagesse.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/characters/chopper.jpg",
+      "doubleur": "Ikue Ōtani",
+      "doubleur_vf": "Brigitte Lecordier",
+      "birth_date": "24 décembre",
+      "age": 17,
+      "height": "90 cm",
+      "status" : "Alive",
+      "abilities": "Chopper est un combattant polyvalent grâce à son pouvoir du *Hito Hito no Mi*, un fruit du démon de type *Zoan* qui lui permet de se transformer en un être humain. Grâce à ce pouvoir, il peut changer de forme en fonction des besoins du combat, allant de sa forme de renne standard à des formes plus puissantes et adaptées aux situations, telles que le ''Monster Point'' qui lui donne une force colossale. \r\n Chopper est également capable d’utiliser les ''Rumble Balls'', des pilules spéciales qui lui permettent d'accéder à de nouvelles formes intermédiaires, comme le ''Jumping Point'' pour une grande agilité ou le ''Arm Point'' pour une puissance physique accrue. Ces transformations lui donnent une grande variété d'attaques, allant de coups puissants à des mouvements rapides et imprévisibles. \r\n En plus de ses capacités de combat, Chopper est un médecin exceptionnel, utilisant son savoir-faire pour soigner ses compagnons et analyser les faiblesses de ses ennemis. Bien qu'il ne maîtrise pas le Haki, ses formes de transformation et sa capacité à s'adapter à n'importe quelle situation font de lui un atout indispensable pour l'équipage, que ce soit en tant que combattant ou en tant que médecin.",
+      "spoil": "Chopper a développé de nouvelles formes de Rumble Ball et devient un médecin de génie."
+    },
+    {
+      "id": 7,
+      "anime_id": 1,
+      "manga_id" : 1,
+      "name": "Nico Robin",
+      "name_alternatif": [
+        { "name": "L'enfant du démon" },
+        { "name": "La Sorcière de l'Île d'Olvia" },
+        { "name": "La Déesse de la Mort" },
+        { "name": "Miss All Sunday" }
+      ],
+       "description": "Nico Robin est une tireuse d’élite calme et réfléchie, qui cache une grande douleur derrière son attitude distante. Elle est une archéologue brillante et une femme de savoir, mais elle a été marquée par son passé solitaire et difficile. Elle est souvent perçue comme froide ou calculatrice, mais en réalité, Robin est une personne profondément loyale et dévouée à ses amis. Son rêve de découvrir la véritable histoire du monde est ce qui la pousse à voyager avec l’équipage de Luffy.\n\nBien qu’elle préfère garder ses distances, Robin est une alliée de poids pour l’équipage, capable de résoudre les problèmes les plus complexes. Elle incarne la sagesse, mais aussi la force intérieure, prête à défendre ses convictions et ses amis jusqu’au bout.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/characters/robin.jpg",
+      "doubleur": "Yuriko Yamaguchi",
+      "doubleur_vf": "Dominique Vallée",
+      "birth_date": "6 février",
+      "age": 30,
+      "height": "188 cm",
+      "status" : "Alive",
+      "abilities": "Robin est une combattante redoutable grâce à son pouvoir du *Hana Hana no Mi*, qui lui permet de faire apparaître des membres de son corps sur n'importe quelle surface. \r\n Elle maîtrise parfaitement cette capacité pour attaquer et immobiliser ses ennemis, en faisant apparaître des bras, des jambes ou même des yeux et des oreilles à des endroits stratégiques. Elle peut ainsi frapper ses adversaires, les attraper ou les étouffer avec une précision incroyable. \r\n En plus de ses capacités offensives, Robin utilise cette technique pour se défendre et manipuler son environnement, lui offrant une grande souplesse tactique. Elle est également experte en analyse et en stratégie, utilisant ses pouvoirs pour anticiper les mouvements de ses ennemis et exploiter leurs points faibles. \r\n Bien qu'elle ne maîtrise pas le Haki, Robin reste une combattante extrêmement redoutée, sa maîtrise du *Hana Hana no Mi* lui offrant des possibilités infinies en combat. Sa grande intelligence, sa capacité à rester calme et sa polyvalence font d'elle un atout stratégique majeur pour l'équipage.",
+      "spoil": "Robin découvre des informations clés sur le Siècle Oublié et progresse dans sa quête des Ponéglyphes."
+    },
+    {
+      "id": 8,
+      "anime_id": 1,
+      "manga_id" : 1,
+      "name": "Franky",
+      "name_alternatif": [
+        { "name": "Cyborg Franky" },
+        { "name": "Le Charpentier du Chapeau de Paille" },
+        { "name": "Super Franky" },
+        { "name": "Le Géant des Mers" }
+      ],
+      "description": "Franky est un charpentier à l’âme d’artiste, animé par un rêve de créer le navire parfait. Il est un homme exubérant, dynamique et toujours prêt à prendre des initiatives audacieuses. Anciennement un homme de ferraille, Franky a transformé son corps en une véritable œuvre d’art mécanique, se battant pour l’avenir de son équipage et la construction d’un navire qui les emportera à travers toutes les mers.\n\nIl est un personnage à la fois drôle et dévoué, capable de moments de grande tendresse et de générosité. Sa personnalité est aussi grande que son physique, mais il est avant tout un homme de principes et de valeurs, prêt à tout pour protéger ses amis et réaliser son rêve. Franky est un mélange parfait de créativité, de force et de détermination.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/characters/franky.jpg",
+      "doubleur": "Kazuki Yao",
+      "doubleur_vf": "Thierry Mercier",
+      "birth_date": "9 mars",
+      "age": 36,
+      "height": "223 cm",
+      "status" : "Alive",
+      "abilities": "Franky est le charpentier de l'équipage de Chapeau de Paille et un génie de la mécanique. Son rêve est de créer le navire ultime, et c'est lui qui a conçu et construit le *Thousand Sunny*, le vaisseau emblématique de l'équipage. Cependant, Franky n'a pas toujours été le fier cyborg que l'on connaît aujourd'hui. Avant de rejoindre Luffy, il était un jeune inventeur rebelle, qui a dû se forger une réputation dans le monde de la piraterie en raison de ses compétences exceptionnelles en construction et en ingénierie. Connu sous le nom de *Cutty Flam*, il est un ancien membre du groupe des Franky Family et a eu un passé tumultueux marqué par des luttes et des trahisons. \r\n Franky est un personnage au caractère exubérant, souvent source de comédie au sein de l'équipage grâce à ses expressions uniques et son attitude décontractée. Toutefois, sous cette façade de joyeux lurons, se cache un homme avec une profonde loyauté envers ses amis et une grande détermination à réaliser ses rêves. Son rôle de charpentier est essentiel, car ses compétences ne se limitent pas seulement à la construction, mais aussi à la réparation et à l'amélioration des vaisseaux et équipements de l'équipage. Il est aussi capable de se transformer en une véritable machine de guerre, grâce à son corps de cyborg, modifié avec des implants et des armes redoutables. \r\n Franky se distingue également par sa grande force physique et sa capacité à se battre avec des attaques puissantes, comme son ''Franky Fire'' ou ''Coup de Poing'', qui exploitent ses bras mécaniques. Son esprit créatif lui permet de trouver des solutions innovantes aux problèmes les plus complexes. \r\n L'équipage de Chapeau de Paille lui doit énormément, non seulement pour sa construction de génie, mais aussi pour son courage et son indéfectible soutien. Bien qu'il ne se considère pas comme un héros, Franky incarne l’esprit de l'équipage, prêt à tout pour protéger ses amis et réaliser ses rêves, même dans les moments les plus difficiles.",
+      "spoil": "Franky améliore le Sunny et développe de nouvelles armes avancées."
+    },
+    {
+      "id": 9,
+      "anime_id": 1,
+      "manga_id" : 1,
+      "name": "Brook",
+      "name_alternatif": [
+        { "name": "Soul King" },
+        { "name": "Brook le Squelette" },
+        { "name": "Le Musicien Squelette" },
+        { "name": "Le Seigneur des Os" }
+      ],
+      "description": "Brook est une musicienne joyeuse et optimiste, mais c’est aussi bien plus qu’une simple chanteuse. Bien qu’il soit un squelette vivant, Brook est un personnage avec un cœur pur et un esprit indestructible. Sa passion pour la musique et son rêve de retrouver ses anciens compagnons de groupe le poussent à voyager avec Luffy et les autres membres de l’équipage.\n\nBien qu’il soit souvent perçu comme un personnage excentrique et farfelu, Brook est aussi un allié fidèle et un soutien important pour ses amis. Sa capacité à faire rire et à apporter de la joie dans les moments les plus sombres est l’une de ses plus grandes forces. Il incarne l’âme de l’équipage : une énergie positive, une détermination sans faille et un amour inconditionnel pour la musique et ses compagnons.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/characters/brook.jpg",
+      "doubleur": "Chō",
+      "doubleur_vf": "Philippe Ariotti",
+      "birth_date": "3 avril",
+      "age": "90+ (immortel)",
+      "height": "277 cm",
+      "status" : "Alive",
+      "abilities": "Brook est un épéiste agile et un musicien d’exception. Il maîtrise parfaitement l'art du combat à l’épée, utilisant la rapidité de ses mouvements et la flexibilité de son corps de squelette pour surprendre ses adversaires. \r\n Grâce à sa légèreté, il peut exécuter des attaques précises avec une grande agilité, utilisant son sabre pour trancher ses ennemis avec une vitesse dévastatrice. \r\n En plus de ses compétences au sabre, Brook exploite le pouvoir de son Fruit du Démon, le *Yomi Yomi no Mi*, qui lui permet de revenir à la vie après la mort. Cela lui confère une forme d’immortalité, rendant ses blessures bien moins graves que celles des autres, tant qu’il garde son âme intacte. \r\n En combat, Brook utilise également son instrument de musique, un violon, pour produire des sons capables d’affecter les âmes de ses ennemis. Par exemple, il peut paralyser ou perturber ses adversaires en émettant des vagues sonores grâce à sa musique. \r\n Bien qu’il ne soit pas un expert du Haki, Brook compense par sa rapidité, sa capacité à esquiver et à manipuler son corps de manière unique grâce à sa condition de squelette vivant. Il est également un utilisateur du Haki de l'Observation, ce qui lui permet de détecter les mouvements et les présences autour de lui, renforçant ainsi son efficacité dans les combats.",
+      "spoil": "Brook devient un espion et obtient des informations cruciales sur les Ponéglyphes."
+    },
+    {
+      "id": 10,
+      "anime_id": 1,
+      "manga_id" : 1,
+      "name": "Jinbe",
+      "name_alternatif": [
+        { "name": "Le Paladin des Mers" },
+        { "name": "Le Homme-Poisson" }
+      ],
+      "description": "Jinbe est un homme-poisson au cœur d’acier et à l’esprit d’acier, un homme dévoué à ses principes et à son équipage. Jinbe a rejoint l’équipage de Luffy après de nombreuses épreuves. Son rêve est de vivre dans un monde où les différentes races peuvent vivre ensemble en harmonie, ce qui le pousse à se battre aux côtés de Luffy et des autres.\n\nJinbe est un personnage calme et réfléchi, un homme d’honneur qui sait prendre des décisions difficiles pour le bien de tous. Son expérience et sa sagesse en font un mentor précieux pour Luffy et ses compagnons. Bien qu’il soit physiquement impressionnant, Jinbe est avant tout un homme de paix, cherchant à résoudre les conflits par la compréhension plutôt que par la violence.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/characters/jinbe.jpg",
+      "doubleur": "Daisuke Gōri (ancien) / Katsuhisa Hōki",
+      "doubleur_vf": "Jean-Louis Faure",
+      "birth_date": "3 avril",
+      "age": 46,
+      "height": "301 cm",
+      "status" : "Alive",
+      "abilities": "Jinbe est un maître du *Karate des Hommes-Poissons*, une technique de combat unique permettant de manipuler l'eau, qu'il utilise pour créer des attaques dévastatrices comme le ''Shark Breaker'' et le ''Fish-Man Karate''. Il possède également une grande maîtrise de la navigation maritime, ce qui en fait un timonier hors pair. Jinbe est également un combattant redoutable grâce à sa force physique exceptionnelle et son utilisation du Haki de l'Armement, qu'il maîtrise pour rendre ses attaques plus puissantes. \r\n En plus de ses capacités physiques et martiales, Jinbe incarne les idéaux de paix et d'unité entre les peuples, ce qui fait de lui un membre clé et un leader au sein de l'équipage.",
+      "spoil": "Jinbe rejoint officiellement l'équipage après Wano et joue un rôle stratégique important."
+    },{
+      "id": 11,
+      "anime_id": 2,
+      "manga_id" : 2,
+      "name": "Tetsuya Kuroko",
+      "name_alternatif": [
+        { "name": "Le Fantôme du Basket" }
+      ],
+      "description": "Tetsuya Kuroko est un personnage discret, réservé et extrêmement humble, dont la présence passe souvent inaperçue. Ancien membre de la Génération des Miracles, il a toujours évolué dans l’ombre de ses coéquipiers plus flamboyants, assumant pleinement son rôle de soutien. Élève du lycée Seirin, Kuroko se distingue par son absence d’ego et sa volonté inébranlable d’aider son équipe sans chercher la gloire personnelle.\n\nSa personnalité calme et posée contraste fortement avec l’énergie débordante de certains de ses camarades. Malgré ses airs effacés, il fait preuve d’une grande force intérieure et d’une détermination sans faille. Il croit fermement aux valeurs collectives du sport et à la puissance du travail d’équipe. Sa relation avec les autres membres de la Génération des Miracles est marquée par une volonté de les ramener à une vision plus humaine et collaborative du basket, quitte à s’y opposer frontalement. Son calme, son altruisme et sa ténacité en font une figure profondément attachante et inspirante.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/characters/kuroko.jpg",
+      "doubleur": "Kazuya Nakai",
+      "doubleur_vf": "Philippe Allard",
+      "birth_date": "31 janvier",
+      "age": 16,
+      "height": "168 cm",
+      "status" : "Alive",
+      "abilities": "Kuroko possède un style de jeu unique qui se base sur sa capacité à se fondre dans l'arrière-plan, rendant sa présence presque invisible sur le terrain. Il est extrêmement talentueux dans l'art de la passe, souvent capable de faire des passes rapides et inattendues. Bien qu'il ne soit pas très physique, il possède une grande agilité et un excellent sens du jeu. Son principal atout est sa capacité à utiliser le *Kuroko no Kokorogami* (l'Art du Fantôme), qui lui permet d'échapper à l'attention des adversaires, rendant ses passes presque impossibles à anticiper.",
+      "spoil": "Kuroko joue un rôle central dans la rivalité contre les anciens membres des Générations des Miracles et son développement dans l'anime consiste à montrer que le travail d'équipe et la collaboration peuvent être plus puissants que l'individualisme."
+    },{
+      "id": 12,
+      "anime_id": 2,
+      "manga_id" : 2,
+      "name": "Seijuro Akashi",
+      "name_alternatif": [
+        { "name": "Le Génie du Basket" }
+      ],
+      "description": "Seijūrō Akashi est une figure d’autorité naturelle, incarnant à la fois le charisme, l’intelligence et une volonté de fer. Ancien capitaine de la Génération des Miracles, il est élève du lycée Rakuzan. Son comportement est marqué par une assurance absolue et une exigence extrême envers lui-même et les autres. Pour lui, la victoire est une évidence, presque un devoir, et tout ce qui pourrait s’y opposer est perçu comme une menace à éliminer.\n\nAkashi possède une double personnalité, née d’un profond conflit intérieur entre son besoin de dominer et son sens initial du leadership. Cette dualité le rend imprévisible : tantôt calme et réfléchi, tantôt impitoyable et autoritaire. Il inspire autant la crainte que le respect, même parmi ses anciens coéquipiers. Sa vision du basket repose sur l’ordre et le contrôle absolu, et il attend une obéissance totale de ceux qui jouent avec lui. Pourtant, malgré son arrogance apparente, Akashi reste un stratège brillant capable de reconnaître le talent et la force chez les autres.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/characters/akashi.jpg",
+      "doubleur": "Norio Wakamoto",
+      "doubleur_vf": "Jean-Luc Kayser",
+      "birth_date": "20 avril",
+      "age": 17,
+      "height": "185 cm",
+      "status" : "Alive",
+      "abilities": "Akashi possède un talent immense, en particulier pour l'analyse rapide du jeu et la stratégie. Il est un maître de l'attaque et de la défense, capable de contrôler le rythme du match avec une autorité indiscutable. Son principal atout est le *Kuroko no Kokorogami* (l'Art du Fantôme), une technique qui lui permet de voir et contrôler le jeu avec une précision extrême. En plus de sa rapidité et de sa puissance physique, il maîtrise le *Emperor Eye*, une technique spéciale qui lui permet de prédire les mouvements de ses adversaires avec une précision surnaturelle, lui donnant un avantage décisif sur le terrain.",
+      "spoil": "Akashi subit un changement radical de caractère au cours de la série, passant d'un leader autoritaire et manipulateur à un joueur plus humble, capable d'apprécier l'esprit d'équipe et de reconnaître la valeur de ses coéquipiers."
+    },{
+      "id": 13,
+      "anime_id": 2,
+      "manga_id" : 2,
+      "name": "Ryota Kise",
+      "name_alternatif": [
+        { "name": "Le Copycat" }
+      ],
+      "description": "Ryōta Kise est un personnage à l’apparence flamboyante et au tempérament extraverti. Élève du lycée Kaijō, il combine charme, aisance sociale et un enthousiasme débordant. Avant de se consacrer au basket, il menait une carrière de mannequin, et cette dualité entre monde du sport et de la mode alimente son image de célébrité. Il se montre amical et souvent enjoué, voire enfantin, ce qui peut faire oublier à quel point il prend le basket au sérieux.\n\nSous son sourire et son attitude détendue, Kise cache une profonde volonté de progresser et de se montrer digne de ses anciens coéquipiers. Il possède un respect profond pour ses pairs, notamment Aomine, qu’il considère comme un modèle. Malgré son manque initial d’expérience dans le basket, il compense par une capacité d’adaptation hors norme et une détermination farouche. Il est sensible à l’esprit d’équipe et accorde une grande importance à ses liens avec ses coéquipiers, même s’il lutte intérieurement avec son besoin de reconnaissance.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/characters/kise.jpg",
+      "doubleur": "Yūki Ono",
+      "doubleur_vf": "Nicolas Marié",
+      "birth_date": "18 juin",
+      "age": 17,
+      "height": "190 cm",
+      "status" : "Alive",
+      "abilities": "Kise possède une capacité unique appelée *Perfect Copy*, qui lui permet de copier n'importe quel mouvement ou style de jeu qu'il observe, que ce soit des dribbles, des tirs ou des passes. Cette capacité fait de lui un joueur extrêmement difficile à contrer, car il peut imiter les meilleures techniques des joueurs adverses. En plus de sa technique de copie, Kise est un excellent shooter, avec un tir très précis et puissant. Il maîtrise également le *Kuroko no Kokorogami* (l'Art du Fantôme) et possède une grande rapidité et agilité, ce qui lui permet d'être un atout majeur tant en attaque qu'en défense.",
+      "spoil": "Kise connaît une évolution importante au cours de la série, passant d'un joueur égocentrique à un membre plus mature et respectueux de son équipe, apprenant à mieux collaborer et à apprécier les qualités des autres joueurs."
+    },
+    {
+      "id": 14,
+      "anime_id": 2,
+      "manga_id" : 2,
+      "name": "Daiki Aomine",
+      "name_alternatif": [
+        { "name": "Le Monstre du Basket" }
+      ],
+      "description": "Daiki Aomine est un personnage charismatique mais profondément complexe, marqué par une passion dévorante pour le basket. Anciennement joueur au style explosif et instinctif, il a fini par sombrer dans l’ennui en raison du manque d’adversaires capables de l’égaler. Élève du lycée Tōō, il affiche une attitude désinvolte, souvent en retard aux entraînements et préférant improviser plutôt que suivre les règles.\n\nDerrière son comportement provocateur et son apparente indifférence se cache un compétiteur féroce et un joueur au talent naturel exceptionnel. Il dégage une aura intimidante sur le terrain comme en dehors, mais conserve une forme de respect implicite pour ceux qui se battent avec détermination. Sa relation avec Kuroko est particulière : teintée de nostalgie, de conflit et de respect silencieux. Malgré son attitude rebelle, Aomine reste fidèle à son amour profond du jeu, même s’il se refuse souvent à l’admettre.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/characters/aomine.jpg",
+      "doubleur": "Nobunaga Shimazaki",
+      "doubleur_vf": "David Manet",
+      "birth_date": "9 novembre",
+      "age": 17,
+      "height": "191 cm",
+      "status" : "Alive",
+      "abilities": "Aomine possède une agilité, une rapidité et une puissance physique exceptionnelles, ce qui en fait un adversaire extrêmement difficile à contrer. Sa principale caractéristique est sa capacité à exécuter des mouvements imprévisibles et dévastateurs, en particulier son tir. Il maîtrise un style de jeu unique qu'il appelle le *Kuroko no Kokorogami* (l'Art du Fantôme), ce qui lui permet d'être capable de surpasser ses adversaires avec des gestes fluides et puissants. Son principal atout est son *Tir parfait* qui lui permet de marquer depuis n'importe où sur le terrain, rendant difficile pour les défenseurs de l'arrêter. De plus, il possède une force physique et une coordination supérieures, ce qui lui donne un avantage sur pratiquement tous ses adversaires.",
+      "spoil": "Aomine traverse un arc de rédemption tout au long de la série, apprenant à rétablir sa relation avec ses anciens coéquipiers de la Génération des Miracles et à accepter le concept de jouer en équipe plutôt que de tout faire par lui-même. Cela marque un tournant dans sa vie et son approche du jeu."
+    },
+    {
+      "id": 15,
+      "anime_id": 2,
+      "manga_id" : 2,
+      "name": "Shintaro Midorima",
+      "name_alternatif": [
+        { "name": "Le Tireur Précis" }
+      ],
+      "description": "Shintarō Midorima est un personnage extrêmement méthodique, rationnel et attaché aux rituels. Élève du lycée Shūtoku, il se distingue par son sérieux et son attitude souvent froide. Toujours vu avec son horoscope du jour en main, il suit scrupuleusement les prédictions astrologiques, allant jusqu’à porter ou transporter les objets porte-bonheur les plus absurdes simplement parce qu’ils sont recommandés par son signe. Cette obsession superstitieuse contraste avec son attitude rigide et calculatrice, ajoutant une touche comique à sa personnalité.\n\nD’un naturel orgueilleux et distant, Midorima garde souvent ses émotions pour lui, préférant la logique à l’impulsivité. Il est aussi extrêmement compétitif et accorde une grande importance à la préparation et à la discipline. Malgré son apparente froideur, il respecte profondément ses adversaires, surtout ceux qu’il considère comme dignes. Sa relation avec ses anciens coéquipiers de la Génération des Miracles est teintée d’un mélange de rivalité et de respect, bien qu’il préfère souvent garder ses distances.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/characters/midorima.jpg",
+      "doubleur": "Hiroshi Kamiya",
+      "doubleur_vf": "Thierry Wermuth",
+      "birth_date": "3 juin",
+      "age": 17,
+      "height": "190 cm",
+      "status" : "Alive",
+      "abilities": "Midorima possède un tir extrêmement puissant et précis, capable de marquer des paniers à longue distance, même au-delà de la ligne des trois points. Sa spécialité est son *Tir à trois points parfait*, qu'il exécute avec une précision incroyable, rendant difficile pour ses adversaires de l'arrêter. De plus, il utilise une forme de *Haki* appelé *Haki de l'Observation* qui lui permet d'anticiper les mouvements de ses adversaires, ce qui le rend encore plus redoutable sur le terrain. Bien que son jeu soit basé sur la précision, il possède également une bonne maîtrise de la défense et est capable d'imposer un rythme lent et méthodique à ses matchs.",
+      "spoil": "Midorima apprend au fil de la série l'importance de l'esprit d'équipe et commence à s'intégrer davantage avec ses coéquipiers. Bien qu'il soit un tireur d'élite et un joueur clé, il comprend que sa force réside dans la collaboration et l'adaptation aux besoins de son équipe."
+    },
+    {
+      "id": 16,
+      "anime_id": 2,
+      "manga_id" : 2,
+      "name": "Atsushi Murasakibara",
+      "name_alternatif": [
+        { "name": "Le Géant du Basket" }
+      ],
+      "description": "Atsushi Murasakibara est un personnage au physique imposant et au comportement étonnamment enfantin. Élève du lycée Yōsen, il est souvent vu en train de manger des sucreries, affichant un air nonchalant et désintéressé. Bien qu’il soit l’un des plus grands joueurs de sa génération, il affiche peu d’enthousiasme pour le basket, qu’il considère parfois comme ennuyeux ou trop sérieux.\n\nDerrière cette apparente apathie se cache un esprit extrêmement compétitif, qui ne tolère pas d’être défié par ceux qu’il considère comme inférieurs. Lorsqu’il est confronté à un véritable défi, son côté plus agressif et intense émerge, révélant une facette beaucoup plus sérieuse et redoutable. Sa relation avec ses anciens coéquipiers est ambivalente : s’il les respecte, il n’hésite pas à leur opposer une certaine forme de condescendance. Murasakibara est un personnage paradoxal, à la fois enfantin et terrifiant lorsqu’il décide de se battre sérieusement.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/characters/murasakibara.jpg",
+      "doubleur": "Takahiro Sakurai",
+      "doubleur_vf": "Pierre-François Pistorio",
+      "birth_date": "22 février",
+      "age": 17,
+      "height": "208 cm",
+      "status" : "Alive",
+      "abilities": "Murasakibara possède une combinaison de taille immense et d'aptitudes athlétiques exceptionnelles. Son principal atout est sa défense, en particulier son *Blocage* presque impénétrable, qu'il utilise pour arrêter les tirs de ses adversaires. Il est également un excellent rebondisseur, dominant sous le panier grâce à sa taille et sa portée. Malgré son approche décontractée du jeu, il possède une agilité surprenante pour un joueur de sa taille, et son *Tir de près* est quasi-imparable. Bien que son jeu soit centré sur la défense et sa puissance physique, Murasakibara est également capable de réaliser des mouvements imprévisibles qui rendent son jeu encore plus redoutable.",
+      "spoil": "Murasakibara, au fur et à mesure de la série, commence à apprendre l'importance de l'esprit d'équipe et de la collaboration avec les autres, dépassant son individualisme et sa paresse initiale. Il finit par reconnaître les qualités de ses coéquipiers et à évoluer en tant que joueur plus complet."
+    },
+    {
+      "id": 17,
+      "anime_id": 2,
+      "manga_id": 2,
+      "name": "Taiga Kagami",
+      "name_alternatif": [
+        { "name": "Le Roi de la Forêt" },
+        { "name": "Le Démon Rouge" }
+      ],
+      "description": "Taiga Kagami est un joueur de basket passionné et fougueux, au tempérament explosif et à la détermination inébranlable. Récemment revenu des États-Unis, où il a perfectionné son jeu, il rejoint le lycée Seirin avec pour objectif de devenir le meilleur basketteur du Japon. Doté d’un physique impressionnant, d’une détente verticale exceptionnelle et d’une énergie débordante, Kagami est un joueur de type *Power Forward* qui excelle dans le jeu au-dessus du cercle.\n\nMalgré son attitude parfois impulsive et son tempérament colérique, Kagami est fondamentalement juste, loyal et extrêmement travailleur. Il déteste l’injustice et se dépasse toujours lorsqu’il est confronté à un défi de taille. Sa rivalité avec les membres de la Génération des Miracles, en particulier Aomine et Murasakibara, alimente son désir de progresser. Sa relation avec Kuroko, son partenaire de jeu à Seirin, est essentielle à son développement : leur synergie, basée sur l’ombre (Kuroko) et la lumière (Kagami), les rend redoutables sur le terrain.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/characters/kagami.jpg",
+      "doubleur": "Yūki Ono",
+      "doubleur_vf": "Jean-Marco Montalto",
+      "birth_date": "2 août",
+      "age": 16,
+      "height": "190 cm",
+      "status": "Alive",
+      "abilities": "Kagami est connu pour ses incroyables capacités athlétiques, en particulier son *saut vertical* prodigieux qui lui permet de rivaliser avec les meilleurs joueurs, même ceux beaucoup plus grands que lui. Il possède une grande puissance physique, un bon contrôle du ballon et une redoutable capacité à contrer ou dunker. Il est l’un des rares joueurs capables d’entrer dans la *Zone*, un état de concentration absolue qui décuple ses performances. Plus tard dans la série, il atteint même la *Seconde Porte de la Zone*, démontrant un potentiel exceptionnel et une véritable évolution dans son approche collective du jeu.",
+      "spoil": "Au fil de la série, Kagami mûrit considérablement. Il apprend à canaliser son énergie, à faire confiance à ses coéquipiers et à coopérer davantage. Son partenariat avec Kuroko devient le cœur stratégique de l’équipe de Seirin. À la fin de l’anime, il décide de retourner aux États-Unis pour continuer à progresser et poursuivre son rêve de devenir joueur professionnel, montrant ainsi l’étendue de sa détermination et de son ambition. Lors du matche final, il entre dans la véritable zone."
+    },
+    {
+      "id": 18,
+      "anime_id": 2,
+      "manga_id": 2,
+      "name": "Riko Aida",
+      "name_alternatif": [
+        { "name": "Coach Riko" }
+      ],
+      "description": "Riko Aida est l’entraîneuse en chef du club de basket du lycée Seirin. Fille d’un ancien athlète professionnel, elle possède une connaissance approfondie de l'entraînement physique et de la stratégie, qu’elle applique avec rigueur malgré son jeune âge. Elle est dotée d’une capacité unique : une sorte de *vision analytique* lui permettant d’évaluer instantanément les capacités physiques d’un joueur rien qu’en le regardant.\n\nRiko combine autorité, dévouement et bienveillance dans son rôle de coach. Bien qu'elle n'ait pas de compétences particulières en basket en tant que joueuse, elle compense largement par sa discipline et sa science du sport. Elle est respectée – et parfois redoutée – par ses joueurs, notamment pour ses méthodes d’entraînement intensives. Sous ses airs sévères se cache une jeune femme sensible, qui se soucie profondément de ses joueurs et les pousse toujours à donner le meilleur d’eux-mêmes.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/characters/Riko.jpg",
+      "doubleur": "Chiwa Saitō",
+      "doubleur_vf": "Olivia Luccioni",
+      "birth_date": "5 février",
+      "age": 17,
+      "height": "156 cm",
+      "status": "Alive",
+      "abilities": "Riko n’est pas joueuse, mais son aptitude remarquable à analyser les données corporelles des joueurs lui permet de concevoir des stratégies adaptées à chaque match. Elle est capable de détecter les points forts et faibles d’un adversaire en un coup d’œil. En tant qu’entraîneuse, elle établit des plans tactiques efficaces, ajuste l'entraînement physique de chacun et gère les temps forts et faibles psychologiques de son équipe. Sa capacité à galvaniser ses joueurs et à renforcer leur esprit d’équipe est l’un de ses plus grands atouts.",
+      "spoil": "Tout au long de la série, Riko évolue de coach débutante à meneuse d’hommes respectée. Elle gagne en assurance, apprend à faire confiance à son instinct tout autant qu’à ses analyses, et développe un lien très fort avec chacun des membres de l’équipe de Seirin. Grâce à elle, l’équipe parvient à surmonter de nombreux obstacles et à affronter des adversaires bien plus expérimentés. Elle reste un pilier fondamental dans la conquête du titre national."
+    },
+    {
+      "id": 19,
+      "anime_id": 2,
+      "manga_id": 2,
+      "name": "Junpei Hyūga",
+      "name_alternatif": [
+        { "name": "Capitaine Hyūga" },
+        { "name": "Sniper de Seirin" }
+      ],
+      "description": "Junpei Hyūga est le capitaine de l’équipe de basket du lycée Seirin. Sérieux, discipliné et réfléchi, il incarne un véritable modèle pour ses coéquipiers. Sa maturité et son calme en font un excellent leader sur et en dehors du terrain. Bien qu’il apparaisse souvent posé et rationnel, Hyūga a une facette plus impulsive qui se manifeste lorsqu’il est poussé dans ses retranchements, révélant un tempérament explosif et un langage beaucoup plus direct.\n\nJoueur de type *Shooter*, Hyūga est connu pour sa précision redoutable à trois points, surtout dans les moments décisifs. En tant que capitaine, il partage une relation de confiance profonde avec Riko, la coach, ainsi qu’un respect mutuel avec ses coéquipiers, notamment Izuki et Kiyoshi. Malgré sa pression personnelle en tant que leader, il parvient à rester fidèle à ses valeurs et pousse constamment son équipe à se surpasser.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/characters/Hyuga.jpg",
+      "doubleur": "Kenji Hamada",
+      "doubleur_vf": "Philippe Roullier",
+      "birth_date": "16 mai",
+      "age": 17,
+      "height": "178 cm",
+      "status": "Alive",
+      "abilities": "Hyūga est un tireur d’élite spécialisé dans les tirs à trois points. Sa principale arme est sa *Zone de Confiance*, un état mental dans lequel sa précision devient quasi-parfaite, même sous pression. Il est capable d'enchaîner des paniers à longue distance sans trembler, souvent dans des situations critiques. Il possède également une bonne vision du jeu, une solide défense pour un arrière et une grande capacité à motiver ses coéquipiers. Sa capacité à rester lucide, à analyser rapidement les situations, et à prendre ses responsabilités dans les moments clés font de lui un capitaine exemplaire.",
+      "spoil": "Hyūga montre une évolution marquante dans son rôle de capitaine. D’abord hésitant à assumer pleinement son leadership, il s’affirme progressivement grâce au soutien de ses coéquipiers et à sa propre volonté de progresser. Lors des grands matchs, il se surpasse, notamment contre Shutoku et Rakuzan, où ses tirs décisifs changent la donne. Il développe également une relation de plus en plus ambiguë avec Riko, ajoutant une touche plus personnelle à son parcours. À la fin de la série, il quitte l’équipe avec fierté, laissant derrière lui un héritage solide et un exemple à suivre."
+    },
+    {
+      "id": 20,
+      "anime_id": 2,
+      "manga_id": 2,
+      "name": "Teppei Kiyoshi",
+      "name_alternatif": [
+        { "name": "Le Fer de Seirin" },
+        { "name": "L’un des Rois sans Couronne" }
+      ],
+      "description": "Teppei Kiyoshi est l’un des membres fondateurs de l’équipe de basket du lycée Seirin et son pivot d’origine. D’un naturel calme, bienveillant et presque insouciant, il cache une immense force mentale et une profonde passion pour le basket. Toujours souriant, Kiyoshi ne montre presque jamais de colère ou de frustration, préférant encourager ses coéquipiers avec douceur et optimisme, même dans les moments les plus critiques.\n\nDoté d’un corps robuste, il est un joueur extrêmement polyvalent, capable d’évoluer à la fois comme pivot et ailier fort. Il se distingue également par son intelligence de jeu exceptionnelle et sa capacité à prendre des décisions cruciales sous pression. Kiyoshi partage une forte complicité avec Hyūga et Izuki, et agit souvent comme un mentor bienveillant au sein de l’équipe. Malgré une blessure importante au genou, il revient jouer par amour du sport et pour aider son équipe à atteindre les sommets.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/characters/teppei.jpg",
+      "doubleur": "Toshiki Masuda",
+      "doubleur_vf": "Jérémy Prévost",
+      "birth_date": "10 juin",
+      "age": 17,
+      "height": "193 cm",
+      "status": "Alive",
+      "abilities": "Teppei est l’un des rares joueurs à combiner parfaitement puissance physique, technique et intelligence tactique. Il excelle dans le jeu au poste bas, les passes décisives inattendues, les rebonds offensifs, et possède une excellente lecture du jeu. Son jeu est basé sur sa *grande main*, qui lui permet de garder le contrôle du ballon avec une seule main tout en gardant l'autre libre pour feinter ou passer. En tant que l’un des Rois sans Couronne, il est reconnu pour son niveau élite et son esprit de compétition redoutable, malgré sa personnalité douce. Son endurance mentale et sa volonté de jouer malgré la douleur en font un véritable pilier.",
+      "spoil": "Kiyoshi revient de blessure pour aider Seirin à atteindre ses objectifs, malgré le risque que cela compromet définitivement sa carrière. Il joue un rôle fondamental dans les matchs contre Yōsen et Rakuzan, usant de stratégie et de courage face à des adversaires bien plus puissants physiquement. Après la Winter Cup, il décide de se faire opérer et quitte temporairement l’équipe, confiant en la relève qu’il a contribué à forger. Son départ est empreint d’émotion, mais il laisse un impact immense sur l’équipe, tant sur le plan sportif qu’humain."
+    },
+    {
+      "id": 21,
+      "anime_id": 2,
+      "manga_id": 2,
+      "name": "Shun Izuki",
+      "name_alternatif": [
+        { "name": "L'Aigle de Seirin" },
+        { "name": "Le Roi des Jeux de Mots" }
+      ],
+      "description": "Shun Izuki est le meneur de jeu de l’équipe de basket du lycée Seirin. Calme, posé et très observateur, il agit comme le cerveau de l’équipe en organisant le jeu et en gardant la cohésion entre les lignes. C’est un joueur très intelligent, capable de lire rapidement les mouvements de l’adversaire et d’adapter la stratégie en conséquence.\n\nEn dehors de son rôle sur le terrain, Izuki est célèbre — ou tristement célèbre — pour ses jeux de mots douteux qu’il glisse souvent dans les conversations, au grand désespoir de ses coéquipiers. Malgré l’humour parfois déplacé, il est apprécié pour sa constance et sa fiabilité. Il entretient une relation de confiance avec Hyūga et Kiyoshi, les autres piliers de l’équipe, et reste un maillon essentiel dans les phases offensives comme défensives.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/characters/Izuki.jpg",
+      "doubleur": "Hirofumi Nojima",
+      "doubleur_vf": "Stéphane Excoffier",
+      "birth_date": "22 mai",
+      "age": 17,
+      "height": "174 cm",
+      "status": "Alive",
+      "abilities": "Izuki est avant tout un excellent passeur et stratège. Sa capacité spéciale est la *Vision d’Aigle* : une perception du terrain à 180 degrés qui lui permet de suivre tous les mouvements autour de lui, même ceux dans son angle mort. Grâce à cette compétence, il anticipe les déplacements de ses coéquipiers et adversaires avec précision. Il possède un maniement de balle solide, une bonne défense, et une capacité à prendre des décisions rapides. Bien qu’il ne soit pas le joueur le plus flashy, sa présence stabilise l’équipe et permet aux autres de briller.",
+      "spoil": "Tout au long de la série, Izuki gagne en assurance et en rapidité d’exécution. Lors de matchs cruciaux comme contre Yōsen ou Rakuzan, sa vision de jeu est mise à rude épreuve, mais il parvient à la dépasser et à surprendre ses adversaires avec des passes et interceptions clés. Même s’il reste dans l’ombre des joueurs plus spectaculaires, il est reconnu comme l’un des éléments les plus fiables de Seirin. Il continue à faire des jeux de mots, même dans les moments les plus tendus, prouvant qu’il reste fidèle à lui-même."
+    },{
+      "id": 22,
+      "anime_id": 2,
+      "manga_id": 2,
+      "name": "Rinnosuke Mitobe",
+      "name_alternatif": [
+        { "name": "Le Muet de Seirin" },
+        { "name": "L'Homme de Fer Silencieux" }
+      ],
+      "description": "Rinnosuke Mitobe est un joueur discret mais essentiel de l’équipe de basket du lycée Seirin. Il se distingue par son silence constant : Mitobe ne parle jamais, préférant s’exprimer par des gestes, des regards ou une simple présence rassurante. Malgré cela, ses coéquipiers le comprennent parfaitement, notamment Izuki, qui semble avoir développé une véritable 'connexion' avec lui.\n\nSur le terrain, Mitobe est un joueur acharné, discipliné et doté d’une grande force physique. Il joue généralement au poste d’ailier fort ou de pivot remplaçant et se donne toujours à fond, que ce soit en défense ou pour assurer le relais de Kiyoshi. En dehors du terrain, il est également très attentionné envers sa famille, notamment envers sa petite sœur, ce qui montre son côté protecteur et bienveillant.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/characters/Mitobe.jpg",
+      "doubleur": "Koji Okino",
+      "doubleur_vf": "Sébastien Desjours",
+      "birth_date": "3 novembre",
+      "age": 17,
+      "height": "186 cm",
+      "status": "Alive",
+      "abilities": "Mitobe est avant tout un joueur défensif de haute volée. Il possède un excellent sens du timing pour les contres et les rebonds, ainsi qu'une grande endurance physique. Sa spécialité réside dans son jeu silencieux mais efficace : il n’a pas besoin de parler pour comprendre la stratégie ou coopérer avec ses coéquipiers. Il est aussi capable d’utiliser des techniques de tir sous le panier avec beaucoup de précision, grâce à une bonne coordination et une technique rigoureuse. Sa capacité à suivre les plans sans jamais se déconcentrer en fait un joueur d’une constance rare.",
+      "spoil": "Mitobe joue un rôle crucial en tant que soutien lors des grands matchs, remplaçant Kiyoshi avec courage lorsque ce dernier est blessé. Bien qu’il ne soit pas sous les projecteurs, ses efforts discrets permettent à l’équipe de maintenir sa stabilité défensive. Il reste fidèle à son rôle jusqu'à la fin, prouvant qu’un joueur n’a pas besoin de paroles ou de gloire pour avoir un impact déterminant. Sa constance et sa loyauté en font un membre indispensable de Seirin."
+    },
+    {
+      "id": 23,
+      "anime_id": 2,
+      "manga_id": 2,
+      "name": "Shinji Koganei",
+      "name_alternatif": [
+        { "name": "Le Joker de Seirin" },
+        { "name": "Monsieur Polyvalent" }
+      ],
+      "description": "Shinji Koganei est un joueur énergique, enthousiaste et un peu excentrique de l’équipe de basket du lycée Seirin. Toujours optimiste et légèrement tête en l’air, il apporte une touche de légèreté à l’équipe, sans jamais manquer de volonté. Il se distingue par son envie de bien faire, même si ses compétences ne sont pas au même niveau que celles des titulaires habituels.\n\nKoganei est souvent utilisé comme joueur de rotation. Il a une attitude très positive et aime plaisanter, ce qui aide à détendre l’atmosphère dans l’équipe. Même s’il n’a pas de compétence exceptionnelle, il compense par une grande motivation et une capacité à s’adapter à différents rôles sur le terrain.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/characters/Shinji.jpg",
+      "doubleur": "Masayuki Shoji",
+      "doubleur_vf": "Antoine Lelandais",
+      "birth_date": "2 juillet",
+      "age": 17,
+      "height": "176 cm",
+      "status": "Alive",
+      "abilities": "Koganei se définit lui-même comme un joueur 'polyvalent'. Bien qu’il ne soit pas un expert dans un domaine particulier, il possède des compétences générales dans tous les aspects du jeu : tir, défense, passes, et même interceptions. Il est capable de jouer à plusieurs postes selon les besoins de l’équipe. Son sens de l’anticipation lui permet parfois de surprendre ses adversaires, et il est connu pour ses *interceptions opportunes*. Son plus grand atout reste sa volonté de s’améliorer constamment, même face à des adversaires beaucoup plus forts.",
+      "spoil": "Koganei joue un rôle de soutien crucial tout au long du tournoi de la Winter Cup. Il entre souvent en jeu lorsque les titulaires ont besoin de repos, et ses contributions discrètes aident à maintenir le rythme. Lors du match contre Yōsen, il parvient à voler le ballon à Murasakibara, montrant qu’il peut créer des moments décisifs. À la fin de la série, il reste un membre fidèle de Seirin, incarnant la persévérance et l’esprit d’équipe, même sans être sous les projecteurs."
+    },
+    {
+      "id": 24,
+      "anime_id": 2,
+      "manga_id": 2,
+      "name": "Satoshi Tsuchida",
+      "name_alternatif": [
+        { "name": "Le Remplaçant Silencieux" }
+      ],
+      "description": "Satoshi Tsuchida est un joueur de l’équipe de basket du lycée Seirin. Bien qu’il soit rarement mis en avant dans l’anime ou le manga, il fait partie des membres réguliers de l’effectif. De nature calme, discrète et peu expressive, Tsuchida est un joueur de soutien fiable, toujours prêt à intervenir si nécessaire, sans jamais chercher à se faire remarquer.\n\nIl n’est ni un titulaire régulier, ni un joueur doté de compétences exceptionnelles, mais son sérieux à l'entraînement et sa présence constante démontrent sa loyauté envers l’équipe. Il accepte son rôle de remplaçant avec humilité et contribue à l'esprit collectif de Seirin.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/characters/Tsuchida.jpg",
+      "doubleur": "Kōji Takeda",
+      "doubleur_vf": "Inconnue",
+      "birth_date": "28 août",
+      "age": 17,
+      "height": "180 cm",
+      "status": "Alive",
+      "abilities": "Tsuchida n’est pas mis en avant pour ses capacités techniques particulières. Il possède des compétences de base solides, avec un bon esprit d’équipe et une bonne condition physique. C’est un joueur de soutien capable d’entrer en jeu sans perturber l'équilibre de l’équipe. Il montre une certaine rigueur défensive et une capacité à suivre les consignes, même s’il n’est pas un facteur décisif lors des matchs importants.",
+      "spoil": "Tsuchida ne participe pas aux moments clés des matchs de la Winter Cup, mais il reste un membre actif de l’effectif tout au long de la série. Son engagement discret reflète l’importance des rôles de l’ombre dans le succès collectif. Bien qu’il ne soit jamais sous les projecteurs, il représente l'esprit de Seirin : une équipe où chaque membre, peu importe son temps de jeu, a sa place et sa valeur."
+    },
+    {
+      "id": 25,
+      "anime_id": 2,
+      "manga_id": 2,
+      "name": "Kōki Furihata",
+      "name_alternatif": [
+        { "name": "Le Remplaçant Nerveux" }
+      ],
+      "description": "Kōki Furihata est un joueur remplaçant de l’équipe de Seirin, principalement au poste de meneur de jeu. De nature timide et facilement stressé, il se distingue par sa nervosité apparente lorsqu’il entre sur le terrain, notamment contre des adversaires puissants. Bien qu’il manque de confiance en lui, Furihata est un coéquipier dévoué, travailleur et attentif, qui donne toujours le meilleur de lui-même quand l’équipe a besoin de lui.\n\nMalgré son manque d’assurance, il possède un bon sens du jeu et une capacité à garder la tête froide après les premières minutes de tension. C’est aussi un personnage comique à sa façon, souvent utilisé pour représenter le contraste entre la pression des grands matchs et l’esprit de groupe chaleureux de Seirin.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/characters/Furihata.jpg",
+      "doubleur": "Toshiki Masuda",
+      "doubleur_vf": "Inconnue",
+      "birth_date": "8 octobre",
+      "age": 16,
+      "height": "168 cm",
+      "status": "Alive",
+      "abilities": "Furihata est un meneur de jeu remplaçant, formé pour prendre temporairement la place d’Izuki. Il n’a pas de capacité spéciale comme la Vision d’Aigle, mais compense par sa rigueur tactique, sa bonne gestion du ballon et sa capacité à exécuter les stratégies données par le coach. Sa taille modeste le désavantage physiquement, mais il parvient à se montrer utile par des passes précises et une bonne lecture du jeu. Il évolue au fil de la série en gagnant un peu plus de confiance.",
+      "spoil": "Furihata est amené à jouer dans certains matchs importants, notamment lorsque l’équipe doit reposer ses titulaires. Bien qu’il soit souvent paniqué en entrant, il parvient à se stabiliser et à rendre service à son équipe, ce qui montre une progression notable dans sa maturité et son sang-froid. Sa persévérance et son humilité illustrent l’importance de chaque membre dans la réussite collective de Seirin, même ceux qui ne brillent pas sous les projecteurs."
+    },
+    {
+      "id": 26,
+      "anime_id": 2,
+      "manga_id": 2,
+      "name": "Kōichi Kawahara",
+      "name_alternatif": [
+        { "name": "Le Silencieux de l’Ombre" }
+      ],
+      "description": "Kōichi Kawahara est un joueur de fond de banc de l’équipe de basket du lycée Seirin. Très peu mis en avant dans le manga ou l’anime, il n’en reste pas moins un membre à part entière de l’effectif. Discret et effacé, il accompagne l’équipe dans ses entraînements et ses déplacements, montrant une présence constante même s’il ne joue pratiquement jamais dans les matchs officiels.\n\nKawahara n’a pas de rôle spécifique dans l’intrigue, mais son intégration au groupe reflète l’esprit d’équipe de Seirin, où chaque membre — visible ou non — est respecté pour sa contribution à l’entraînement et à la cohésion du groupe.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/characters/Koichi.jpg",
+      "doubleur": "Yūya Murakami",
+      "doubleur_vf": "Inconnue",
+      "birth_date": "16 septembre",
+      "age": 17,
+      "height": "179 cm",
+      "status": "Alive",
+      "abilities": "Kawahara ne montre pas de compétence particulière sur le terrain, car il ne participe pas aux matchs clés. On peut supposer qu’il possède des capacités de base en basket, suffisantes pour faire partie du club, et qu’il s’investit à l’entraînement comme tous les autres membres. Sa force réside dans son sérieux, son soutien silencieux, et sa persévérance à rester impliqué malgré son absence sous les projecteurs.",
+      "spoil": "Il n’a pas de développement narratif ni de moment marquant dans la série. Cependant, il illustre un thème important de *Kuroko no Basket* : même les joueurs qui ne sont pas sur le devant de la scène font partie intégrante de la réussite collective. Il reste un coéquipier loyal et un rouage discret dans la mécanique de Seirin."
+    },
+    {
+      "id": 27,
+      "anime_id": 2,
+      "manga_id": 2,
+      "name": "Hiroshi Fukuda",
+      "name_alternatif": [
+        { "name": "Le Pilier de Seirin" }
+      ],
+      "description": "Hiroshi Fukuda est un joueur de l’équipe de basket du lycée Seirin. Bien qu’il ne soit pas un titulaire régulier, il joue un rôle important en tant que membre solide du banc. Il est reconnu pour sa détermination et sa persévérance, toujours prêt à donner son maximum à l’entraînement et lors de ses rares apparitions en match.\n\nFukuda est un coéquipier fiable, qui apporte stabilité et soutien aux joueurs vedettes. Sa présence rassure ses partenaires, et il fait preuve d’une grande solidarité, incarnant l’esprit d’équipe qui anime Seirin. Il est apprécié pour son sérieux et son engagement dans le groupe.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/characters/Fukuda.jpg",
+      "doubleur": "Takeshi Kusao",
+      "doubleur_vf": "Inconnue",
+      "birth_date": "12 janvier",
+      "age": 17,
+      "height": "182 cm",
+      "status": "Alive",
+      "abilities": "Fukuda est un joueur polyvalent capable d’assurer plusieurs rôles sur le terrain. Il est souvent utilisé pour renforcer la défense et effectuer des tâches de soutien comme le rebond ou les passes. Sa technique est correcte, sans être spectaculaire, mais son endurance et sa combativité en font un joueur utile lors des matchs exigeants.",
+      "spoil": "Fukuda reste principalement en arrière-plan tout au long de la série. Il n’a pas de développement narratif majeur, mais sa contribution au succès collectif de Seirin est indéniable. Sa ténacité inspire ses coéquipiers et rappelle que chaque membre, même s’il joue peu, est vital pour la dynamique d’équipe."
+    },
+    {
+      "id": 28,
+      "anime_id": 1,
+      "manga_id": 1,
+      "name": "Shanks",
+      "name_alternatif": [
+        { "name": "Le Roux" },
+        { "name": "Shanks le Roux" },
+        { "name": "Le Capitaine des Roux" }
+      ],
+      "description": "Shanks, surnommé Le Roux à cause de sa chevelure flamboyante, est l'un des Quatre Empereurs, figures les plus puissantes du Nouveau Monde. Ancien membre de l'équipage de Gol D. Roger, il incarne la liberté, le courage et la loyauté. Malgré son apparence décontractée et son sourire constant, Shanks est un pirate redoutable et respecté, capable d'inspirer l'admiration aussi bien chez ses alliés que chez ses ennemis.\n\nIl est connu pour avoir donné son célèbre chapeau de paille à Luffy, symbole de la promesse que ce dernier deviendra un grand pirate. Shanks valorise la paix et la camaraderie, évitant les conflits inutiles, mais ne recule jamais devant un combat lorsque ses amis sont en danger. Sa présence impose le respect, et son influence dépasse largement celle de nombreux autres pirates dans le monde.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/characters/shanks.jpg",
+      "doubleur": "Shūichi Ikeda",
+      "doubleur_vf": "Bruno Méyère",
+      "birth_date": "Inconnue",
+      "age": "39 ans",
+      "height": "198 cm",
+      "status": "Alive",
+      "abilities": "Shanks est un maître épéiste extrêmement puissant et un utilisateur accompli du Haki. Il maîtrise parfaitement le Haki de l'Armement, capable de renforcer ses attaques et son corps pour infliger des dégâts considérables. Son Haki de l'Observation est si développé qu'il peut sentir la présence d'autres personnes à des kilomètres de distance et anticiper leurs mouvements, même dans l'obscurité totale.\n\nSa réputation repose aussi sur sa maîtrise du Haki du Roi, une capacité rare qui lui permet d'imposer sa volonté aux autres, provoquant parfois l'évanouissement des faibles d'esprit autour de lui. Malgré son style souvent décontracté, il est capable de combattre de puissants adversaires et de tenir tête à d'autres Empereurs, témoignant de son immense force et de son charisme exceptionnel.",
+      "spoil": "Shanks joue un rôle crucial dans la fin de l'ère de Gol D. Roger et intervient pour empêcher une guerre entre pirates et marines lors de l'arc Marineford. Il possède aussi des informations secrètes sur le siècle oublié et les Ponéglyphes."
+    },
+    {
+      "id": 29,
+      "anime_id": 1,
+      "manga_id": 1,
+      "name": "Benn Beckman",
+      "name_alternatif": [
+        { "name": "Beckman" }
+      ],
+      "description": "Benn Beckman est le bras droit de Shanks et l’un des membres les plus intelligents et stratégiques de l’équipage. Connu pour son calme imperturbable et sa capacité à analyser rapidement une situation, il est respecté pour son sang-froid et son leadership. Malgré son apparence tranquille, Beckman est un combattant redoutable et une figure clé dans les opérations de l’équipage.\n\nSa loyauté envers Shanks est inébranlable, et il agit souvent en tant que conseiller et protecteur, prêt à intervenir pour défendre son capitaine et son équipage contre toute menace.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/characters/beckman.jpg",
+      "doubleur": "Aruno Tahara",
+      "doubleur_vf": "Inconnu",
+      "birth_date": "Inconnue",
+      "age": "Inconnue",
+      "height": "Inconnu",
+      "status": "Alive",
+      "abilities": "Beckman est réputé pour sa grande intelligence tactique et ses compétences au combat. Bien qu'on sache peu de choses précises sur ses capacités, il est suggéré qu'il soit un épéiste très compétent et un utilisateur avancé du Haki. Sa capacité à rester calme dans les situations les plus dangereuses fait de lui un élément indispensable de l’équipage.",
+      "spoil": "Beckman a une grande influence dans le Nouveau Monde et semble jouer un rôle important dans les négociations et les alliances entre pirates."
+    },
+    {
+      "id": 30,
+      "anime_id": 1,
+      "manga_id": 1,
+      "name": "Yasopp",
+      "name_alternatif": [
+        { "name": "Le Tireur d'élite Yasopp" }
+      ],
+      "description": "Yasopp est le tireur d’élite de l’équipage du Roux, réputé pour sa précision exceptionnelle et son incroyable talent avec le fusil. Ancien villageois, il a quitté sa famille et son fils (Usopp) pour devenir pirate aux côtés de Shanks. Son attitude décontractée cache un redoutable combattant capable de toucher des cibles avec une précision presque surnaturelle.\n\nYasopp joue un rôle crucial dans l’équipage, offrant un soutien à distance et protégeant ses compagnons avec ses tirs précis.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/characters/yasopp.jpg",
+      "doubleur": "Kenji Nomura",
+      "doubleur_vf": "François Siener",
+      "birth_date": "Inconnue",
+      "age": "Inconnue",
+      "height": "178 cm",
+      "status": "Alive",
+      "abilities": "Yasopp est un tireur d’élite hors pair, capable de tirer avec une précision extrême à très longue distance. Son sens de l’observation et sa rapidité de réaction lui permettent de neutraliser ses ennemis avant qu’ils ne s’approchent. Il est également un utilisateur du Haki, ce qui améliore ses capacités de tir et sa perception des dangers.",
+      "spoil": "Yasopp reste un membre loyal de l’équipage du Roux et est l’un des rares à connaître les véritables intentions de Shanks dans le Nouveau Monde."
+    },
+    {
+      "id": 31,
+      "anime_id": 1,
+      "manga_id": 1,
+      "name": "Lucky Roux",
+      "name_alternatif": [
+        { "name": "Roux" }
+      ],
+      "description": "Lucky Roux est un membre loyal et jovial de l’équipage du Roux, connu pour son apparence massive et son appétit gargantuesque. Malgré son côté décontracté, il est un combattant puissant, capable de protéger ses compagnons avec une force brute impressionnante. Il incarne l’esprit de camaraderie et de force brute qui caractérise l’équipage.\n\nLucky Roux est souvent vu en train de plaisanter, apportant une ambiance détendue à bord du navire, tout en restant prêt à entrer en combat à tout moment.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/characters/lucky.jpg",
+      "doubleur": "Inconnu",
+      "doubleur_vf": "Inconnu",
+      "birth_date": "Inconnue",
+      "age": "Inconnue",
+      "height": "Inconnu",
+      "status": "Alive",
+      "abilities": "Lucky Roux possède une force physique exceptionnelle et une endurance remarquable. Il utilise souvent sa taille et sa puissance pour écraser ses ennemis au corps à corps. Bien que ses techniques précises ne soient pas détaillées, sa robustesse et sa résilience sont ses principaux atouts en combat.",
+      "spoil": "Lucky Roux joue un rôle important lors des conflits majeurs de l’équipage, apportant un soutien précieux par sa puissance brute."
+    },
+    {
+      "id": 32,
+      "anime_id": 1,
+      "manga_id": 1,
+      "name": "Rockstar",
+      "name_alternatif": [
+        { "name": "Le Nouveau Membre" }
+      ],
+      "description": "Rockstar est un membre récent de l’équipage du Roux, encore moins expérimenté que les autres vétérans. Malgré cela, il s’efforce de se faire une place parmi les pirates redoutables du Nouveau Monde, montrant une grande détermination et un courage certain. Sa loyauté envers Shanks est totale, et il est prêt à apprendre et à se battre pour protéger son capitaine et son équipage.\n\nRockstar représente la nouvelle génération au sein des Roux, cherchant à se faire remarquer et à gagner en puissance.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/characters/rockstar.jpg",
+      "doubleur": "Inconnu",
+      "doubleur_vf": "Inconnu",
+      "birth_date": "Inconnue",
+      "age": "Inconnue",
+      "height": "Inconnu",
+      "status": "Alive",
+      "abilities": "Rockstar est encore en phase d’apprentissage mais démontre une bonne maîtrise du combat à l’épée et des bases du Haki. Son potentiel reste à confirmer, mais son courage et sa volonté de progresser sont ses forces principales.",
+      "spoil": "Rockstar continue d’évoluer dans l’ombre des grands noms de l’équipage, et pourrait jouer un rôle plus important dans l’avenir."
+    },
+    {
+      "id": 33,
+      "anime_id": 1,
+      "manga_id": 1,
+      "name": "Hongo",
+      "name_alternatif": [
+        { "name": "Hongo l'Éclaireur" }
+      ],
+      "description": "Hongo est un membre relativement discret mais important de l'équipage du Roux. Souvent vu comme un éclaireur ou un éclaireur de confiance, il est reconnu pour sa rapidité et sa capacité à recueillir des informations cruciales. Bien qu'il ne soit pas aussi exposé que d'autres membres, son rôle dans la stratégie et la surveillance est précieux pour la sécurité et le succès de l’équipage.\n\nHongo incarne la fidélité envers Shanks et la prudence nécessaire pour naviguer dans le dangereux Nouveau Monde.",
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/characters/hongo.jpg",
+      "doubleur": "Inconnu",
+      "doubleur_vf": "Inconnu",
+      "birth_date": "Inconnue",
+      "age": "Inconnue",
+      "height": "Inconnu",
+      "status": "Alive",
+      "abilities": "Hongo est reconnu pour sa rapidité et ses compétences en reconnaissance. Il utilise sa discrétion pour éviter les combats directs, préférant recueillir des informations et avertir l’équipage des dangers imminents. Sa capacité à se déplacer rapidement et à rester inaperçu est un atout majeur dans les missions d’éclaireur.",
+      "spoil": "Hongo a aidé l’équipage à éviter plusieurs embuscades dans le Nouveau Monde grâce à ses talents d’observation et de reconnaissance."
+    }
+  ],
+  "authors" : [
+    {
+      "id" : 1,
+      "name" : "Eiichirō Oda",
+      "biography" : "Il est connu pour avoir écrit le manga le plus vendu au début du XXIe siècle au Japon et dans le reste du monde : One Piece, entré dans le Livre Guinness des records pour être devenu le manga au tirage le plus important du monde en décembre 2014.",
+      "debut" : "Dès l'âge de 4 ans, il rêve de devenir mangaka, influencé par son père qui lui fait découvrir des mangas comme The Monster Kid et Vic le Viking. Cependant, c’est en découvrant Dragon Ball d'Akira Toriyama qu'Oda trouve sa véritable vocation et décide de devenir mangaka.\n\nÀ l'adolescence, Oda commence à dessiner sérieusement et à soumettre ses œuvres. À seulement 17 ans, il remporte le prestigieux 44e Prix Tezuka pour son manga Wanted !, une histoire de cow-boy pendant la conquête de l'Ouest, qui préfigure déjà des éléments qu’il utilisera plus tard dans One Piece, comme les avis de recherche.",
+      "profession" : "En 1994, à l'âge de 19 ans, Eiichiro Oda décide d’abandonner ses études d’architecture pour se consacrer pleinement au manga. Il rejoint le Weekly Shōnen Jump, un magazine majeur de manga, et devient l’assistant de mangakas renommés comme Shinobu Kaitani et Nobuhiro Watsuki. Ce fut une étape importante où Oda apprend les rouages de l'industrie et perfectionne son art.\n\nDurant cette période, il publie deux mangas : Monsters (1994) et Romance Dawn (1996). Ces histoires sont des préludes à ce qui deviendra son œuvre la plus célèbre, One Piece.\n\nEn 1997, One Piece commence sa publication dans le Weekly Shōnen Jump et connaît un succès immédiat. La série raconte l’histoire de Monkey D. Luffy et de son équipage à la recherche du trésor légendaire One Piece. Au fil des années, One Piece devient un phénomène mondial, battant des records de ventes et devenant le manga le plus vendu de tous les temps.\n\nL'incroyable succès de One Piece propulse Oda au sommet du monde du manga, et il devient l'un des auteurs les plus influents et respectés de l'industrie, continuant de publier de nouveaux chapitres et tomes tout en étant reconnu pour son travail acharné et sa créativité sans limite.",
+      "resume": "Eiichiro Oda est un mangaka japonais né le 1er janvier 1975, considéré comme l’un des auteurs les plus importants et influents de l’histoire du manga.\n\nTrès jeune, il se passionne pour le dessin, et c’est en découvrant des œuvres comme Dragon Ball d’Akira Toriyama qu’il décide de consacrer sa vie à la création de mangas.\n\nÀ seulement 17 ans, il remporte le prestigieux Prix Tezuka avec sa première œuvre, Wanted!, ce qui marque le début de sa carrière prometteuse.\n\nEn 1994, il fait un choix décisif en abandonnant ses études pour rejoindre l’équipe du Weekly Shōnen Jump. Il y travaille comme assistant auprès de mangakas réputés tels que Shinobu Kaitani et Nobuhiro Watsuki, ce qui lui permet de perfectionner son style et de se former aux exigences du métier.\n\nAmbitieux, créatif et travailleur acharné, Oda pose rapidement les bases de son univers narratif. Son parcours témoigne d’un engagement total envers son art.\n\nAujourd’hui, il est salué pour sa capacité à mêler aventures, émotions et imagination, ce qui lui a permis d’atteindre une reconnaissance mondiale sans précédent dans l’histoire du manga.",
+      "age": 50,
+      "birth_date" : "1 janvier 1975",
+      "city" : "Kumamoto",
+      "nationalite" : "Japonaise",
+      "nbr_oeuvres" : 14,
+      "image_url" : "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/author.jpg"
+    },
+        {
+      "id" : 2,
+      "name" : "Tadatoshi Fujimaki",
+      "biography" : "Il est un dessinateur de manga japonais, notamment connu comme le créateur des mangas sportifs Kuroko's Basketball et Robot × LaserBeam, ainsi que Kill Blue, tous publiés en série dans le Weekly Shōnen Jump.",
+      "debut" : "Tadatoshi Fujimaki est né le 19 février 1982 à Tokyo, au Japon. Dès son enfance, il a un intérêt marqué pour le sport, en particulier le basketball, ce qui l'amènera plus tard à intégrer ces thèmes dans ses mangas. Cependant, avant de se lancer dans le manga, Fujimaki était passionné par le dessin et l’illustration, et il rêve de devenir mangaka dès son jeune âge.\n\n Après avoir terminé ses études secondaires, il se consacre pleinement à sa passion pour le manga. En 2003, il participe au concours de manga Weekly Shōnen Jump et y remporte son premier prix avec une œuvre intitulée No. 10, un manga qui marque ses débuts dans l’industrie.",
+      "profession" : "En 2004, Tadatoshi Fujimaki commence à travailler professionnellement en tant que mangaka assistant, notamment pour le célèbre mangaka Takeshi Konomi, l’auteur de Prince of Tennis. Ce travail d’assistant lui permet d'acquérir une expérience précieuse dans le monde du manga et d'affiner son propre style.\n\nEn 2008, Fujimaki fait ses débuts en tant que mangaka principal avec la publication de Kuroko no Basket dans le Weekly Shōnen Jump. Le manga raconte l’histoire de l’équipe de basketball du lycée Seirin, en particulier de son joueur mystérieux, Kuroko Tetsuya, qui possède un talent unique mais peu reconnu. Kuroko est capable de rendre invisibles ses actions et son influence sur le terrain, ce qui lui permet de passer inaperçu tout en étant un élément clé pour son équipe.\n\nKuroko no Basket rencontre immédiatement un grand succès, non seulement pour sa mise en avant des compétences sportives et stratégiques, mais aussi pour ses personnages profonds, chacun ayant une personnalité distincte et un parcours personnel. La série mêle sport, compétition et relations humaines, captivant ainsi un large public.\n\nLe manga se termine en 2014 après 30 volumes et est rapidement adapté en anime, ce qui contribue à élargir encore sa popularité à l’international. Le succès de Kuroko no Basket permet à Fujimaki de s'imposer comme l’un des auteurs de manga les plus connus et respectés dans le domaine du manga sportif.\n\nAprès Kuroko no Basket, Fujimaki travaille sur d'autres projets, comme The Basketball Which Kuroko Plays, un manga inspiré de son œuvre précédente. Cependant, il reste essentiellement associé à Kuroko no Basket, une œuvre qui a marqué toute une génération de fans de manga et d'anime.",
+      "resume": "Tadatoshi Fujimaki est un mangaka japonais né le 19 février 1982 à Tokyo.\n\nDès son plus jeune âge, il nourrit une passion profonde pour le dessin et le sport, notamment le basketball. Inspiré par ces deux univers, il décide très tôt de devenir mangaka.\n\nEn 2003, il se fait remarquer dans le milieu professionnel en remportant un concours organisé par le Weekly Shōnen Jump avec son manga No. 10, marquant ses premiers pas officiels dans l’industrie.\n\nL’année suivante, il devient assistant du mangaka Takeshi Konomi, auteur de Prince of Tennis. Cette expérience lui permet de développer son sens du rythme narratif, d'affiner son style graphique et de comprendre les réalités du métier.\n\nPeu à peu, Fujimaki s’impose comme un auteur capable de créer des histoires dynamiques et humaines, centrées sur le dépassement de soi et l’esprit d’équipe.\n\nGrâce à sa rigueur, sa créativité et sa maîtrise du genre sportif, il est aujourd’hui reconnu comme l’un des auteurs les plus influents dans ce domaine du manga.",
+      "age": 42,
+      "birth_date" : "9 juin 1982",
+      "city" : "Tokyo",
+      "nationalite" : "Japonaise",
+      "nbr_oeuvres" : 13,
+      "image_url" : "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/author.jpg"
+    }
+  ],
+  "films" : [
+    {
+      "id": 1,
+      "title": "One Piece Film: Red",
+      "titles" : {
+        "jp" : "One Piece Film: Red",
+        "sy" : "ONE PIECE FILM RED",
+        "eng" : "One Piece Film: Red",
+        "fr" : "One Piece Film: Red"
+      },
+      "synopsis": "L'histoire se déroule sur une île où Uta, la diva préférée du monde, se produit pour la première fois en public. La voix d'Uta, avec laquelle elle chante tout en dissimulant sa véritable identité, a été décrite comme « d'un autre monde ». Alors que la salle est remplie des Chapeaux de paille menés par Luffy, de pirates, de la marine et de fans du monde entier venus apprécier sa voix, la voix d'Uta est entendue sous un nouveau jour. Le rideau se lève sur l'histoire avec la révélation choquante qu'elle est la « fille de Shanks »",
+      "genres": ["Action", "Aventure","Winning", "Comedy", "Drama", "Fantasy"],
+      "status": "Terminé",
+      "aired": "6 août 2022",
+      "source": "Manga",
+      "studio" : "Toei Animation",
+      "rating" : "PG - Teens 13 or older",
+      "length" : 115,
+      "score" : 7.82,
+      "manga_id" : 1,
+      "anime_id": 1,
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/one_piece/films/red.webp",
+      "trailer" : null,
+      "spoil": "Dans One Piece Film: Red, Uta, la fille de Shanks, piège le monde dans une réalité illusoire avec ses pouvoirs de chant, forçant Luffy et Shanks à intervenir pour empêcher une catastrophe." 
+    },
+    {
+      "id": 2,
+      "title": "Kuroko's Basketball: Last Game",
+      "titles" : {
+        "jp" : "Kuroko no Basket: Last Game",
+        "sy" : "劇場版 黒子のバスケ LAST GAME",
+        "eng" : "Kuroko's Basketball the Movie: Last Game",
+        "fr" : "Kuroko no Basket: Last Game"
+      },
+      "synopsis": "Dans Kuroko no Basket: Last Game, l’histoire reprend après les événements de la série principale. Une équipe de basketball américaine nommée Jabberwock, composée de joueurs arrogants et au style brutal, arrive au Japon pour un match d’exhibition. Lors de leur première rencontre contre une sélection japonaise, ils écrasent leurs adversaires sans pitié et les humilient, allant jusqu’à insulter les joueurs japonais en les traitant de singes et en décrétant que le basketball japonais est ridicule. Témoin de cette humiliation, Kuroko et Kagami ne peuvent rester indifférents.\n\n Pour relever ce défi, Riko Aida, l’entraîneuse de Seirin, propose de former une équipe exceptionnelle : Team Vorpal Swords, réunissant les anciens rivaux de Kuroko connus sous le nom de Génération des Miracles — Akashi, Aomine, Kise, Midorima, Murasakibara — ainsi que Kagami et Kuroko lui-même.",
+      "genres": ["Comedy", "Sports"],
+      "status": "Terminé",
+      "aired": "27 septembre 2017",
+      "source": "Manga",
+      "studio" : "Production I.G",
+      "rating" : "PG - Teens 13 or older",
+      "length" : 90,
+      "score" : 7.74, 
+      "anime_id" : 2,
+      "image_url": "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/films/last_game/affiche.webp",
+      "trailer" : "https://raw.githubusercontent.com/sarah08coutaz/AllAnimeImages/refs/heads/master/kuroko_basket/films/last_game/trailer.mp4",
+      "spoil": "Jabberwock écrase une équipe japonaise. Kuroko, Kagami et la Génération des Miracles s’unissent pour les vaincre. Ils gagnent. Kagami part aux États-Unis." 
+    }
+  ]
+}
